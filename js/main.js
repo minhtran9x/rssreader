@@ -1,4 +1,4 @@
-const RSS_URL = `../rss/tin-moi-nhat.rss`;
+const RSS_URL = `rss/tin-moi-nhat.rss`;
 const textarea = document.querySelector("#feed-textarea > ul");
 
 const date = new Date();
